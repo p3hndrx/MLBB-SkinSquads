@@ -1785,8 +1785,8 @@ u, .text-underline {
     margin-top: var(--space-lg);
 }
 .margin-top-xl {
-    margin-top: 3.25em;
-    margin-top: var(--space-xl);
+    /*margin-top: 3.25em;
+    margin-top: var(--space-xl);*/
 }
 .margin-top-xxl {
     margin-top: 5.25em;
@@ -2913,8 +2913,8 @@ u, .text-underline {
 body {
     background-color: hsl(225,  31%,  23%);
     background-color: var(--cd-color-1);
-    padding: 3.25em 0;
-    padding: var(--space-xl) 0;
+    /*padding: 3.25em 0;
+    padding: var(--space-xl) 0;*/
 }
 h1 {
     color: hsl(54,  42%,  95%);
